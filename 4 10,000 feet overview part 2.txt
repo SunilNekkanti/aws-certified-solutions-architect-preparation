@@ -15,8 +15,32 @@
         RDS - Aurora, MySQL, PostgreSQL
         DynamoDB = NoSQL DB
         Redshift - Data Warehousing Solution
-        Elasticcache - Caching your data on the cloud.
-        
+        Elastic cache - Caching your data on the cloud.
+
+    Migration:
+    ==========
+
+        Snowball - Import/Export Service
+        DMS - Migrate on premise DB to AWS
+        Server Migration service(SMS) - Target's VMware VM's 50 at a time
+
+
+    Analytics:
+    ----------
+
+        Athena - Run SQL queries on S3 Turn flat files to searchable DB's
+        EMR - Elastic Map Reduce (Log Analysis, Web Indexing). Uses Hadoop, spark etc.
+        CloudSearch - Search engine for websites
+        ElasticSearch - Service uses a OS Framework
+        Kinesis - Streaming and analyzing real-time data.
+        Data Pipeline - move data from one place to another
+        QuickSight - Business Analytics Toolss
+    
+    
+
+
+
+
 
 
 
