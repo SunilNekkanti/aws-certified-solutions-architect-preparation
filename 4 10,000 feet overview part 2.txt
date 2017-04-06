@@ -1,0 +1,22 @@
+10,000 feet overivew Part 2:
+---------------------------
+
+    Storage:
+    --------
+
+        S3 = Simple storage service (Virtual Disk on cloud Objects like files,presentations)
+        Glacier = Data Archieving 
+        EFS - Elastic File Service (Block Based service) (can install db's and share them)
+        Storage Gateway - connecting S3 to  physical on-premise DC.
+
+    Databases:
+    ----------
+
+        RDS - Aurora, MySQL, PostgreSQL
+        DynamoDB = NoSQL DB
+        Redshift - Data Warehousing Solution
+        Elasticcache - Caching your data on the cloud.
+        
+
+
+
