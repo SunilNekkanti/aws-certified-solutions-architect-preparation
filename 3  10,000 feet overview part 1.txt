@@ -105,6 +105,11 @@ Regions:
     --------
 
         EC2 - Elastic Compute cloud (VM's in cloud)
+        ECS - Elastic Container Service (support for Docker containers)
+        Elatic Beanstalk - New to AWS
+        Lambda - Serverless
+        Lightsail - small wordpress site
+
         
 
 
