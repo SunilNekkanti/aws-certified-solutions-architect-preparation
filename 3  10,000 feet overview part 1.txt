@@ -96,8 +96,18 @@ Regions:
     Networking & CDN:
     ----------------
 
-        VPC: (Virtual Private Cloud) = Virtual DC
+        VPC: -  Virtual DC
+        Route53 - DNS Service (Route66)
+        Cloudfront - CDN Service
+        Direct Connect - connecting up your physical DC using a dedicated line into AWS (reliable internet connection)
+
+    Compute:
+    --------
+
+        EC2 - Elastic Compute cloud (VM's in cloud)
         
+
+
 
 
     
