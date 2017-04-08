@@ -10,9 +10,9 @@
     Analytics
     Security & Identity
     Management Tools
-    Application Services
     Developer Tools
-    Mobile Services
+    Application Services
+    Mobile Services    
     Business Productivity
     IoT
     Desktop and App Streaming
