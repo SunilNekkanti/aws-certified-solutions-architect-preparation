@@ -29,12 +29,31 @@
     ----------
 
         Athena - Run SQL queries on S3 Turn flat files to searchable DB's
-        EMR - Elastic Map Reduce (Log Analysis, Web Indexing). Uses Hadoop, spark etc.
+        EMR - Elastic Map Reduce (Log Analysis, Web Indexing). Uses Hadoop, spark etc. Used for Big Data Processing
         CloudSearch - Search engine for websites
         ElasticSearch - Service uses a OS Framework
         Kinesis - Streaming and analyzing real-time data.
         Data Pipeline - move data from one place to another
-        QuickSight - Business Analytics Toolss
+        QuickSight - Business Analytics Tools
+
+    Security & Identity:
+    --------------------
+
+        IAM - Identity and Access Management (very core for managing AWS Services)
+        Inspector - Agent installed on VM's to inspect those VM's
+        Certificate Manager - Free SSL Certificate for your Domain Name's
+        Directory Service - Way to use Active Directory with Microsoft on AWS
+        WAF - Web Application Firewall. Application Level protection to websites
+        Artifacts - Get documentation in AWS.
+
+    
+    
+    
+
+
+
+
+
     
     
 
