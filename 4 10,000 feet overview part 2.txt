@@ -4,7 +4,7 @@
     Storage:
     --------
 
-        S3 = Simple storage service (Virtual Disk on cloud Objects like files,presentations)
+        S3 = Simple storage service (Virtual Disk on cloud Objects like files,presentations) (Object Storage)
         Glacier = Data Archieving 
         EFS - Elastic File Service (Block Based service) (can install db's and share them)
         Storage Gateway - connecting S3 to  physical on-premise DC.
