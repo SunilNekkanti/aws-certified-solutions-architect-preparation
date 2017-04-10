@@ -39,3 +39,46 @@ Security & Identity:
         Commit Build - Compiing your Code 
         Code Deploy - Way of deploying code into EC2 Instances
         Code Piplepine - Keeping track of versions of code.
+
+    Mobile Services:
+    -----------------
+
+    Mobile Hub - Own console for Mobile Apps 
+    Cognito  - Easy to let user sign up and sign into AWS using emails
+    DeviceFarm - Improve Quality of android,ios and Fireos apps using Physical devices on AWS DC
+    Mobile Analytics - Analyzing your mobile data.
+    Pinpoint - Pinpoint as Google Analytics for Mobile apps. Purchase history
+
+    Business Productivity:
+    =====================
+
+    WorkDocs - Storing important work Docs in CLoud. Similar to S3
+    WorkMail - Exchange in AWS
+    
+    IoT:
+    ----
+
+    Having Millions of Devices and keeping tracking them.
+    Own Ceritifaction
+
+
+    Desktop & App Streaming:
+    -------------------------
+
+    WorkSpaces - VDI way of having desktop in cloud. Connect through client
+    AppStream 2.0 - Similar to v1
+
+    Artificial Intelligence:
+    -------------------------
+
+    Fan of Elon Musk - Use AI
+
+    SuperIntelligence - Book for Elon Musk
+
+    
+
+
+
+
+
+
